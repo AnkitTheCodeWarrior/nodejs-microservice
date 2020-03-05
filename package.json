@@ -1,0 +1,29 @@
+{
+    "name": "nsdcbatchservice",
+    "version": "1.0.0",
+    "description": "This is a module related to batch",
+    "main": "server.js",
+    "scripts": {},
+    "author": "TNT TEAM",
+    "license": "ISC",
+    "dependencies": {
+        "atob": "^2.1.2",
+        "axios": "^0.19.0",
+        "colors": "^1.4.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "extend": "^3.0.2",
+        "is-there": "^4.4.4",
+        "lodash": "^4.17.15",
+        "lusca": "^1.6.1",
+        "moment": "^2.24.0",
+        "mongoose": "^5.7.1",
+        "nanoid": "^2.1.1",
+        "nodemon": "^1.19.2",
+        "pretty-error": "^2.1.1",
+        "request": "^2.88.0",
+        "sha256": "^0.2.0",
+        "winston": "3.2.1"
+    },
+    "devDependencies": {}
+}
